@@ -1,12 +1,13 @@
-## 1. Yaroslav Denisiuk
-## 2. Contact Info
+## Yaroslav Denisiuk
+## Contact Info
 * Volgograd, Russia
 * Telegram: @arcanar7
 * e-mail: arcanar7@gmail.com
-## 3. Summary
-Моя цель - стать frontend и backend разработчиком, научиться разрабатывать качественные продукты. Я постоянно совершенствую свои навыки и уверен, что смогу достичь этого.
-## 4. Skills
-- Programming languages and technologies
+## Summary
+My goal is to become a front-end and back-end developer. Learn to develop high quality products. 
+I am constantly improving my skills and I am sure that I can achieve this.
+## Skills
+- **Programming languages and technologies**
   - JavaScript
   - TypeScript
   - Python
@@ -14,42 +15,43 @@
   - C#
   - HTML
   - CSS(SCSS)
-- Frameworks and Libraries
+- **Frameworks and Libraries**
   - VueJs
   - React
   - Angular
-- Version control
+  - Express
+- **Version control**
   - Git
-- Tools
+- **Tools**
   - Visual Studio Code
   - Sublime text
   - Intelij IDEA
-- Databases
+- **Databases**
   - MongoDB
   - MySQL
   - SQLite
-## 5. Code examples
-* [Math тренажер на Vue](https://github.com/arcanar7/training1)
-* [Telegram bot](https://github.com/arcanar7/testbot2)
-## 6. Experience
-* [ToDo List на Vue с аутентификацией и бд](https://github.com/arcanar7/todo-vue)
-* [Backend для ToDo List (rest Api)](https://github.com/arcanar7/todo-vue-backend-rest-)
-* [Админ панель для телеграмм бота](https://github.com/arcanar7/APBot2test)
-* [Сайт для создания и прохождения тестов](https://github.com/arcanar7/quiz-react-app1)
-## 7. Education
-- Волгоградский государственный технический университет. Высшее образование (специалист). Автоматизированные системы обработки информации и управления.
-- Stepik. [Профиль](https://stepik.org/users/46135367)
-  - JavaScript для начинающих
-  - Python: основы и применение
-  - Программирование на Python
-- JavaRush [Профиль](https://javarush.ru/users/1265475)
+## Code examples
+* [Math simulator (Vue)](https://github.com/arcanar7/training1)
+* [Telegram bot (Python)](https://github.com/arcanar7/testbot2)
+## Experience
+* [ToDo List with authentication and db (Vue)](https://github.com/arcanar7/todo-vue)
+* [Back-end for ToDo List (NodeJS, RESTful api, MongoDB, Express)](https://github.com/arcanar7/todo-vue-backend-rest-)
+* [Dashboard for telegram bot (Django)](https://github.com/arcanar7/APBot2test)
+* [Website for creating and passing tests (React)](https://github.com/arcanar7/quiz-react-app1)
+## Education
+- Volgograd State Technical University. Higher education (specialist). Automated information processing and management systems.
+- **Stepik. [Profile](https://stepik.org/users/46135367)**
+  - JavaScript for beginners
+  - Python: basics and application
+  - Python Programming
+- **JavaRush. [Profile](https://javarush.ru/users/1265475)**
   - Java Syntax
-  - Java Core (3 уровня)
-- Видеоуроки WebForMySelf
-  - JavaScript. Полное руководство для современной веб-разработки
-  - NodeJS. Полное руководство (2019)
-  - Фреймворк Vue.js.
-  - Библиотека ReactJS с Нуля до Профи.
-  - Angular 4 c Нуля до Профи
-## 8. English
-Level: A2
+  - Java Core (3 levels)
+- **Video lessons WebForMySelf**
+  - JavaScript. Complete guide to modern web development.
+  - NodeJS. Complete guide (2019).
+  - Framework Vue.js.
+  - Librarie ReactJS from Scratch to Pro.
+  - Angular 4 from Scratch to Pro.
+## English
+**Level:** A2
