@@ -23,6 +23,11 @@ I am constantly improving my skills and I am sure that I can achieve this.
   - React
   - Angular
   - Express
+  - firebase api
+  - vue-i18n
+  - vuex
+  - jsonwebtoken
+  - mongoose
 - **Version control**
   - Git
 - **Tools**
@@ -39,7 +44,7 @@ I am constantly improving my skills and I am sure that I can achieve this.
 * [Telegram bot (Python)](https://github.com/arcanar7/testbot2)
 
 ## Experience
-* [ToDo List with authentication and db (Vue)](https://github.com/arcanar7/todo-vue)
+* [ToDo List with authentication, db, PWA (Vue)](https://github.com/arcanar7/todo-vue)
 * [Back-end for ToDo List (NodeJS, RESTful api, MongoDB, Express)](https://github.com/arcanar7/todo-vue-backend-rest-)
 * [Dashboard for telegram bot (Django)](https://github.com/arcanar7/APBot2test)
 * [Website for creating and passing tests (React)](https://github.com/arcanar7/quiz-react-app1)
