@@ -3,16 +3,17 @@
 * Volgograd, Russia
 * Telegram: @arcanar7
 * e-mail: arcanar7@gmail.com
-## 3. Моя цель - стать frontend и backend разработчиком, научиться разрабатывать качественные продукты. Я постоянно совершенствую свои навыки и уверен, что смогу достичь этого.
+## 3. Summary
+Моя цель - стать frontend и backend разработчиком, научиться разрабатывать качественные продукты. Я постоянно совершенствую свои навыки и уверен, что смогу достичь этого.
 ## 4. Skills
 * Programming languages and technologies
-1. JavaScript
-2. TypeScript
-3. Python
-4. Java
-5. C#
-6. HTML
-7. CSS(SCSS)
+  JavaScript
+  TypeScript
+  Python
+  Java
+  C#
+  HTML
+  CSS(SCSS)
 * Frameworks and Libraries
 1. VueJs
 2. React
