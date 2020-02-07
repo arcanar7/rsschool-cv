@@ -1,9 +1,9 @@
 ## Yaroslav Denisiuk
 
 ## Contact Info
-  Volgograd, Russia
-  Telegram: @arcanar7
-  e-mail: arcanar7@gmail.com
+  * Volgograd, Russia
+  * Telegram: @arcanar7
+  * e-mail: arcanar7@gmail.com
 
 ## Summary
 My goal is to become a front-end and back-end developer. Learn to develop high quality products. 
